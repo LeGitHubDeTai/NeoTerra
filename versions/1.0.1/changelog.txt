@@ -1,0 +1,8 @@
+# 🛠️ Changelog – Version 1.0.1
+
+## ✨ ADD:
+- 🔥 **The Purgatory** – A mysterious new realm where players must complete challenges to return to life.  
+- ⚔️ **The Raiders** – More organized and dangerous raiders that attack at random times!  
+
+## 🛠️ FIX:
+- 🐛 **Fixed a lot of bugs** – General improvements and various bug fixes for a smoother experience.  

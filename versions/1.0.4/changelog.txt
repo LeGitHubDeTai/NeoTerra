@@ -1,0 +1,18 @@
+# 🛠️ Changelog – Version 1.0.4  
+
+## ✨ **ADD:**  
+🔥 **Azmador Blessings** – New fire-based abilities!  
+   - **Sacred Flame**: Faster health regeneration near fire or lava.  
+   - **Fire Resistance**: Permanent immunity to fire damage.  
+   - **Incandescent Strength**: Increased melee attack power.  
+
+🌊 **Ophydros Blessings & Curses** – Water-based buffs & debuffs!  
+   - **Swift Swim**: Significantly increased swimming speed.  
+   - **Current Control**: Faster movement speed, especially in rain or underwater.  
+   - **Glaciation (Curse)**: Players take damage upon entering water.  
+   - **Constant Flood (Curse)**: Water splashes appear around the player, causing potential floods.  
+
+☁️ **Personal Rain Cloud** – A rain cloud that follows specific players!  
+
+## 🛠️ **UPDATE:**  
+⚔️ **Raid Overhaul** – Raid mobs now drop divine offerings!  

@@ -1,0 +1,9 @@
+🚀 **Update & Fixes – Changelog** 🚀  
+
+**🆕 UPDATE:**  
+- 🔄 Changed all scoreboards to include the prefix: **NeoTerra_**  
+
+**🛠️ FIXES:**  
+- 🏰 Fixed the **Purgatory Maze** (players were unable to escape)  
+- 🔲 Fixed the **Purgatory Cube** (players were unable to escape)  
+- 🔴 Fixed the **Purgatory Redstone** (players were unable to escape)  

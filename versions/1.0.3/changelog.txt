@@ -1,0 +1,10 @@
+# 🛠️ Changelog – Version 1.0.3
+
+## ✨ ADD:
+- 🏰 **The Maze Purgatory** – A mysterious labyrinth where lost souls must find their way out.  
+- 🎲 **Random Purgatory** – Each purgatory session now selects a unique random challenge!  
+- 🔴 **Redstone Challenge** – A new redstone puzzle in purgatory, solve it to escape!  
+
+## 🛠️ FIX:
+- ⏳ **Raid Timer** – Fixed inconsistencies in raid timing.  
+- 🎮 **Discord RPC** – Discord status now correctly displays the game state.  
