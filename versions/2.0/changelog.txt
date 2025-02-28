@@ -1,0 +1,28 @@
+# 🚀 Changelog – Version 2.0
+
+## ✨ ADD:
+- 📝 In-game changelog implemented
+- 📦 Added Litematica support
+- 🎨 All offerings now have unique textures
+- ⚔️ Raid update: Vex is now killed at the end of the raid
+- 💡 Shaders: Added complementary shaders
+- 🌞 Shader: Integrated Solas Shader
+- 🐣 Capture mechanic: Attack a mob with an egg to capture it
+
+## 🛠️ FIX:
+- 🏠 Fixed raid spawn issues
+- ⏳ Adjusted raid persistence: Mobs now despawn if not killed to prevent lag
+- ⚠️ Corrected raid mob behavior: They now attack as intended
+- ⏱️ Raid mob timer adjusted (from 30 to 60 minutes)
+- 🚫 Removed the warning message on joining the NeoTerra world
+- 🎵 Reward music now plays for all players
+- 🔍 Fixed the "find the button" purgatory challenge
+- 🔀 Resolved issues with random purgatory
+
+## 🔄 UPDATE:
+- 🖥️ Updated server MOTD
+- 📜 Changed all offerings to paper "tickets" (to avoid using offerings as resources)
+- 🎮 When the "singleplayer" button is clicked, players now join the world directly
+
+## ❌ REMOVE:
+- 🗑️ Removed Axiom
