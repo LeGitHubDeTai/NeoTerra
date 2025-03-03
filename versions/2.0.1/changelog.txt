@@ -1,0 +1,43 @@
+# 📜 NeoTerra Changelog | V2.0.1
+
+## ✨ Additions  
+- 🎨 **Auto-load texture pack** when joining the game.  
+- 🔍 **Optifine-style zoom** feature added.  
+- 🪵 **All wood plank crafting recipes** are now available in the **stone cutter**.  
+- 🐎 **New saddle crafting recipe**.  
+- 🌱 **New grass block crafting recipe**.  
+- ⛏️ **Using a pickaxe on a dirt path now transforms it into dirt**.  
+- 🌍 **Language system implemented** (`1 = Français`, `2 = English`) **[Default: 2]**.  
+- 📜 **Raid, Purgatory, and Border texts are now translated into English**.  
+
+## 🛠️ Fixes  
+- ⚠️ Fixed **warning message when joining a NeoTerra singleplayer world**.  
+- 🔄 **Fixed the "Fix" function** to properly execute.  
+- 🗿 **Corrected Sylthar statue texture**.  
+- 📦 **Fixed incorrect loot table warnings for Shulkers**.  
+- 🎁 **Fixed rewards for Ophydros and Azmador**.  
+- 🛏️ **Players now respawn at spawn if their bed is destroyed**.  
+- 🛠️ **Debug mode stability fixes**.  
+- 🦴 **Fixed armor stand behavior in the Purgatory**.  
+- ⚔️ **Raid now ends if the player is in Purgatory**.  
+- 🌀 **Fixed Ophydros' rotation texture**.  
+- 🏠 **Fixed main menu layout (Singleplayer, Multiplayer, Changelog)**.  
+- ⚠️ **Removed experimental warning message**.  
+- 🔑 **Fixed zoom key conflict**.  
+- 🔄 **Fixed settings resetting after updates**.  
+- 🗺️ **Fixed water display issues on the map**.  
+- 📢 **Purgatory messages are now displayed to all players**.  
+- ⏳ **Raid timer now stops if the player is in Purgatory or in The End**.  
+- 🏹 **Pillagers and Vindicators now hold items in the correct hands**.  
+- 💀 **All raid mobs are now killed if the player dies during a raid**.  
+
+## 🔄 Updates  
+- 🌐 **Updated server MOTD**.  
+- 🖼️ **New main title screen image**.  
+- 🌙 **Moved bedtime mechanic to NeoTerra gameplay**.  
+- 💬 **Improved load message clarity**.  
+- 👁️ **Updated Purgatory messages**.  
+
+## 🗑️ Removals  
+- 📦 **Removed Global Datapack Mod**.  
+- 🎁 **Removed the ability to give offerings via command**.  
