@@ -1,0 +1,37 @@
+# 📜 NeoTerra Changelog | V2.0.2
+
+## ✨ Additions  
+- 🌍 **Default language is now set to English**.  
+- 🪵 **All trapdoors can now be crafted using the stonecutter**.  
+- 🎯 **Added a title when you find the button** in specific challenges.  
+- 👁️ **New Purgatory added** with more challenges!  
+- 🏠 **New in-game menu for home management, TPA, spawn teleportation, and language selection**.  
+- 🏇 **You can now ride any entity using a saddle** (passive and hostile).  
+- 🍄 **Mushrooms can now be smoked** for new gameplay interactions.  
+- 🎵 **Added background music to the Purgatory** for a more immersive experience.  
+- 🐉 **The Ender Dragon now always drops an egg** upon defeat.  
+- 🛠️ **Litematica support added**.  
+- 🔔 **New crafting recipe for bells**.  
+- 🐺 **Added "Peur des Prédateurs" mechanic** affecting certain animals.  
+
+---
+
+## 🛠️ Fixes  
+- ⛏️ **Fixed pickaxe use on dirt paths** (now properly transforms them into dirt).  
+- 🥚 **Fixed Animal Ball mechanics for various mobs** (Horse, Camel, Iron Golem, Warden, Spiders, Enderman, Cat, Wolf, Panda, Breeze, Blaze, Cow, Mooshroom, Mule, Bear, Llama, Ravager, Sniffer).  
+- 👻 **Fixed Purgatory messages appearing incorrectly in the Overworld**.  
+- 🎯 **Fixed "Find the Button" challenge in the Purgatory** (button now correctly resets).  
+- 🗿 **Fixed statue animations** for a smoother visual experience.  
+- 🔴 **Fixed Redstone challenge issues** in Purgatory.  
+- 🎵 **Fixed sound and particle effects when using a pickaxe on dirt paths**.  
+- 🔨 **Fixed pickaxe durability loss when used on dirt paths**.  
+- 🌍 **Fixed End respawn mechanics** (players now correctly return to the Overworld).  
+
+---
+
+## 🔄 Updates  
+- 🌐 **Updated server MOTD**.  
+- 🖼️ **New main menu title image**.  
+- 🛠️ **Pause menu redesigned with a more intuitive layout**.  
+
+🚀 **Enjoy the latest improvements and challenges in NeoTerra!** 🌍🔥  
