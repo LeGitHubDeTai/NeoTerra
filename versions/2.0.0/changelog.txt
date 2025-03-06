@@ -2,7 +2,6 @@
 
 ## ✨ ADD:
 - 📝 In-game changelog implemented
-- 📦 Added Litematica support
 - 🎨 All offerings now have unique textures
 - ⚔️ Raid update: Vex is now killed at the end of the raid
 - 💡 Shaders: Added complementary shaders
