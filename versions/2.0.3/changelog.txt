@@ -1,0 +1,48 @@
+# 🛠️ NeoTerra v2.0.3 - Changelog
+
+## ✨ Additions:
+- Added **Mini HUD** mod.
+- **New command**: `/function neoterra_fix:2.0.2` *(fixes the jump button in purgatory)*.
+- **Added a countdown timer** for raids.
+- **Success messages** added for:
+  - **Redstone logic** purgatory.
+  - **Maze** purgatory.
+- **Removed fall damage** in purgatory jump.
+- **Added a back button** in the Helper menu.
+- **Displayed current wave** out of the total waves in the chat during a raid.
+- **Fireworks display** when a raid is successfully completed.
+- **New menu** for selecting between **Survival mode** and **Creative mode**.
+- **Added a Creative world**.
+- **The Mace now mines in a 3x3 area**.
+- **New purgatory**: **Align the statues**.
+
+<!-- truncate -->
+## 🔄 Replacements:
+- **Replaced the Raid Boss Bar with an Action Bar** for a smoother display.
+
+## 🛠️ Fixes:
+- **Fixed purgatory jump** *(players no longer spawn in the void)*.
+- **Fixed random teleportation in the maze** *(players will no longer all be teleported at once)*.
+- **Fixed the exit button in purgatory jump** *(requires `/function neoterra_fix:2.0.2` to apply the fix)*.
+- **Players now correctly exit purgatory** after finding the exit or pressing the correct button.
+- **Purgatory redstone logic now resets correctly**.
+- **Fixed GUI scale** for the Helper menu.
+- **Fixed UI bug with Flash Back mod** *(pause menu)*.
+- **Fixed missing character in pause menu**.
+- **Fixed Find The Button bug** *(Armor Stands no longer move randomly)*.
+- **Fixed duplicate crafting recipes** for all pickaxes.
+- **Fixed particle effects** when using a pickaxe on a dirt path.
+- **Fixed Find The Button bug** *(a second Armor Stand would spawn and break the exit mechanism)*.
+- **Fixed raid wave delay**.
+- **Fixed Animal Ball duplication bug** *(double eggs when capturing a mob)*.
+
+## 🔄 Updates:
+- **Updated version** to **2.0.3**.
+- **New main title image** on the menu screen.
+- **Updated server MOTD**.
+- **Main menu speed increased by x5** for smoother navigation.
+- **Removed music from the redstone challenge**.
+- **Improved redstone challenge**.
+- **Updated background images for loading screens**.
+
+🚀 **Enjoy this update and have fun in NeoTerra!** 🌍🔥
