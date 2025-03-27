@@ -1,0 +1,112 @@
+# 📜 Changelog NeoTerra 2.0.4
+
+## 🆕 ADDITIONS:
+
+- **New mod**: Inventory Management mod.
+- **Added a rare white fox** that drops a rare offering.
+- **New crafting recipes**:
+  - Diamond horse armor.
+  - Gold horse armor.
+  - Leather horse armor.
+  - Iron horse armor.
+  - Endstone.
+  - Calcite.
+- **The stonecutter now deals damage** if the player stands on it.
+- **Added a 6th raid wave**, featuring a **random boss**.
+- **Added 3 new bosses** in the 6th wave.
+- **New resource packs added**:
+  - Enchant Icons.
+  - Enchant Icons Colorless.
+  - Enchanted Books from Mars.
+  - Fresh Animations.
+  - Dramatic Skys.
+- **New shaders added**:
+  - Aurora's Shaders.
+  - Insanity Shader.
+  - BSL Shaders.
+  - MakeUp - Ultra Fast.
+- **Added a slime chunk button** in MiniHUD-Seed in the Helper GUI (to easily locate slime chunks).
+- **Added a tutorial** on the website for Bedrock players.
+- **Added poop mechanics**:
+  - If the player eats, **within 1-2 hours they will defecate**.
+  - Poop can be **eaten** or **composted**.
+- **Added chat messages** (FR/EN) for all rewards from:
+  - Azmador.
+  - Ophydros.
+  - Skaeldur.
+  - Sylthar.
+- **Added a new debuff: "Diarrhea"**.
+- **Complete rebalance of rewards**.
+- **Added particle effects** for the **Fear of Predators** effect.
+- **Drinking milk** now **removes all effects**.
+- **Added a piss jar**:
+  - If the player drinks, **within 1-2 hours they will urinate**.
+  - The piss jar can be **drunk** or **thrown**.
+  - **Effects based on usage**:
+    - If drunk **within 10 minutes** → **Healing effect**.
+    - If drunk **after 10 minutes** → **Nausea effect**.
+    - If thrown → **Nausea on the ground + Instant damage**.
+- **Added a new debuff: "Uncontrollable Urination"**.
+- **Added a search bar** on the wiki.
+- **Added explanations for macOS crashes** (see wiki).
+- **Added a storm cloud**.
+- **Added new helper tools** in the **F3 menu**.
+- **Added new food items**:
+  - **Lasagna** (craftable & edible).
+  - **Muffin** (craftable & edible).
+- **Added a new debuff for Skaeldur**: **Cursed Blood**.
+- **Added new sounds**:
+  - **When a raid starts**.
+  - **When a raid ends**.
+- **Added two new whips**:
+  - **Normal whip** → Deals **1 heart of damage**.
+  - **Vine whip** → Applies **Poison for 10 seconds**.
+
+---
+
+## ❌ REMOVALS:
+
+- **Removed anvil** from Skaeldur's loot table.
+- **Removed Evokers** from raid **waves 4 and 5**.
+- **Removed the command** `/trigger NeoTerra_lang`.
+
+---
+
+## 🛠️ FIXES:
+
+- **Raids no longer disappear** if the player dies.
+- **Fixed server crash** when players were in the Redstone challenge.
+- **Added sand** in the Redstone challenge.
+- **The "Flooding" curse is now paused** if the player is in purgatory.
+- **Fixed a softlock bug** where players returning from purgatory with the "Flooding" curse could be stuck in bedrock at spawn.
+- **Azmador’s statue now rotates correctly** in purgatory (statues are now aligned).
+- **Armor stands are no longer visible** when using the mace.
+- **Fixed tool durability** on **dirt paths**.
+- **Fixed durability issues** on the mace.
+- **The 3x3 mace now breaks blocks faster** (turns into a "highway").
+- **The mace has regained its intended function** (crushing attack).
+- **Fixed the "Depth’s Plague" debuff**:
+  - It **dealt too much damage**.
+  - It **was not triggering correctly while swimming**.
+- **Fixed Azmador’s lightning-related debuffs**:
+  - **Wrath of Lightning**.
+  - **Thunderous Judgment**.
+- **All custom crafting recipes are now visible** in the recipe book.
+- **Armor stands in "Find the Button" are no longer bugged**.
+- **Raid fireworks no longer kill players** (replaced with particles).
+- **If there is only one raid wave, the next waves are no longer delayed**.
+
+---
+
+## 🔄 UPDATES:
+
+- **Version name**: **2.0.4**.
+- **New main title image**.
+- **Updated server MOTD**.
+- **Updated all mods**.
+- **Updated AllMobHeads to V10.9** (sheep now drop meat).
+- **Complete reorganization**:
+  - **Bonuses & debuffs**.
+  - **Crafting recipes**.
+- **All items now have proper translations** (FR/EN).
+- **Complete overhaul of the translation system** (now uses `.lang` files).
