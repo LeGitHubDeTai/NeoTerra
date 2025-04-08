@@ -1,0 +1,103 @@
+# 📦 NeoTerra - Changelog v2.0.5
+
+---
+
+## 🆕 Additions
+
+### ⚔️ New Bonuses & Maluses
+
+- **Azmador**
+  - Malus **Unbearable Heat**: Takes burn damage every second while under the sun or near a heat source (10 to 15 sec).
+
+- **Ophydros**
+  - Bonus **Aquatic Regeneration**: Health regenerates 2x faster underwater.
+  - Malus **Aquatic Storms**: Suffers Slowness or Mining Fatigue during rain.
+  - Bonus **Underwater Breathing**: Breathe underwater indefinitely.
+
+- **Skaeldur**
+  - Bonus **Accelerated Extraction**: Mining speed greatly increased (2 min).
+  - Bonus **Day’s Blessing**: Gain Regeneration I while standing in sunlight (1.5 to 2 min).
+  - Bonus **Berserker**: Gain Strength I for 5 sec when under 4 hearts.
+  - Malus **Eternal Chill**: Permanently suffers from Slowness I.
+  - Malus **Clumsiness**: 20% chance to drop your weapon when attacking.
+  - Malus **Bottomless Stomach**: Hunger drains 2x faster than normal.
+  - Malus **Night Skin**: Blindness when in darkness (light level < 5).
+  - Malus **Fragile Bones**: Takes 1.5x more fall damage.
+
+- **Sylthar**
+  - Malus **Natural Balance**: Killing passive mobs (cow, pig, etc.) summons a spider or silverfish near you.
+  - Malus **Natural Rhythm**: Cannot sprint at night. Gains Slowness II at night.
+  - Malus **Chaotic Metamorphosis**: Randomly becomes tiny or giant.
+  - Malus **Natural Fragility**: Suffers Weakness I when exposed to daylight.
+  - Malus **Earth’s Disease**: Poisonous plants/spores may poison the player.
+  - Malus **Telluric Force**: The higher you are, the weaker you get (Slowness & Mining Fatigue above Y=100).
+  - Bonus **Nature's Healing**: Heals nearby players when near vegetation or animals.
+
+- **General**
+  - Bonus **Speed on Fire**: Gain Speed while burning.
+  - Eating **soup** reverts you to normal size if tiny or giant.
+
+### 🛠 Features
+
+- Added **logo display** during reload.
+- Added **items loot table** to god drops (rare items).
+- Added item: **Seeker Eye** ([See Wiki](http://neoterra.taistudio.fr/docs/gameplay/seeker_eye)).
+- Added the **Raid Tracker** ([See Wiki](http://neoterra.taistudio.fr/docs/gameplay/raid_tracker)).
+- Added **custom portals**.
+- Added **magma cloud** and **poison cloud**.
+- Added **82 new advancements**.
+- Added **new version message**.
+- Added **version-based advancements**.
+- Added **advancements for raids**.
+- Added **advancements for Purgatory** (each room now gives one).
+- Added **Sponsor button** on both launcher and wiki.
+
+### 🎨 Resource Packs
+
+- **Fresh Moves** ([Animated skin guide](http://neoterra.taistudio.fr/tutorials/advanced/animate_skin))
+- **Better Lanterns**
+- **Redstone Tweaks**
+- **Grimdark Sky Pack**
+
+### 🧱 Mods
+
+- **Librarian Trade Finder** ([See tutorial](http://neoterra.taistudio.fr/tutorials/commands/trade_finder))
+
+---
+
+## 🐛 Fixes
+
+- Boss name no longer appears if player dies during a raid.
+- Raids no longer spawn in:
+  - Purgatory
+  - Nether
+- Fixed sand in **Redstone Challenge** (chunk load issue).
+- Mace breaks faster (was being overused).
+- Fixed **TP after Purgatory** (multiple players now return correctly).
+- Performance improvements:
+  - Reduced lag from **fishing rod sounds**
+  - Optimized reward/effect handling
+- You can now **whip all entities**.
+- Players **teleport back 1 block above** bed (prevents getting stuck).
+- **God titles** only display in front of statues (Overworld only).
+- All divine **rewards/effects removed on player death**.
+
+---
+
+## 🔄 Updates
+
+- Version name: **2.0.5**
+- New **main title image**
+- New **server MOTD**
+- Reorganized bonuses/maluses for:
+  - Azmador
+  - Ophydros
+- Renamed **"Dolphin’s Grace" → Oceanic Surge**
+- You can now **place poop on the ground**.
+- Poop has a new **texture**.
+- Language/localization fixes for all bonus/malus names.
+- **All mods updated** to latest versions.
+
+---
+
+🔥 Enjoy the chaos, champions of NeoTerra!
